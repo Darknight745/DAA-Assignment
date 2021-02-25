@@ -1,5 +1,11 @@
 # Comparison of various Sorting Algorithms
 
+This repository compares four sorting algorithms:
+- Selection Sort
+- Bubble Sort
+- Quick Sort
+- Merge Sort
+
 ### To run the program
 ```sh
 make -f file.mk
